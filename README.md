@@ -1,4 +1,4 @@
-- Hello World! 👋 
+Hello World! 👋 
 - Fikriabdi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
