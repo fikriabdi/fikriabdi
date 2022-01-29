@@ -1,6 +1,8 @@
 Hello World! 👋 
+
 My Learning:
-![image](https://user-images.githubusercontent.com/93390553/151657567-1fb2e068-5e7f-4c38-bedc-b41e8328a929.png)
+
+R, Tableau
 
 
 - 👀 I’m interested in Data Science
