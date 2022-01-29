@@ -1,11 +1,15 @@
 Hello World! 👋 
 My Learning:
-Python R HTML CSS JavaScript
 
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science Methodology in IBM, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on social media:
+-    Email: fikriabdiputra21@gmail.com
+-    Instagram: @fikriabdi21
+-    Linkedin: linkedin/in/fikriabdi
+-    Tableau: fikriabdi
 
 <!---
 Fikriabdi21/Fikriabdi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
